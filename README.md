@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Malith Gihan
 
-**Software Engineer | Full-Stack Developer | TinyML Enthusiast**
+**Software Engineer | Full-Stack Developer | Robotics & AI Enthusiast**
 
 ---
 
 ## 🎨 About Me
-I am a passionate software engineer exploring the intersections of **web, mobile, and AI-powered applications**. I enjoy solving real-world problems with technology and creating solutions that are **both functional and elegant**.  
+I am a passionate software engineer exploring the intersections of **web, mobile, robotics, and AI-powered applications**. I enjoy solving real-world problems with technology and creating solutions that are **both functional and elegant**.  
 
 - 🌍 Based in Sri Lanka  
 - 💻 Full-stack web & mobile development  
-- 🤖 TinyML & AI experiments for smart systems  
-- 📈 Always learning modern technologies & best practices  
+- 🤖 Robotics & AI experiments for smart systems  
+- 🏗️ Web and software architecture  
+- 📈 Continuously learning modern technologies & best practices  
 
 ---
 
@@ -23,7 +24,11 @@ I am a passionate software engineer exploring the intersections of **web, mobile
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TinyML-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 ---
@@ -33,42 +38,46 @@ Here are a few projects I am proud of:
 
 | Project | Tech Stack | Summary |
 |---------|------------|---------|
-| **Smart Traffic Lights** | React, TinyML, Edge Computing | Real-time traffic prioritization for emergency vehicles and accident detection. |
-| **Food Delivery Platform** | React, Node.js, Docker | Uber Eats-style full-stack system with microservices & live notifications. |
-| **Finance Manager** | Node.js, Express, MongoDB | Manage budgets, visualize data, and automate financial insights. |
+| **Microservice Food Delivery Platform** | React, Node.js, Docker, Kubernetes | A scalable, Uber Eats-style platform with microservices and real-time tracking system. |
+| **EN-SI Live Translator App** | React Native, Node.js | Mobile app providing real-time English-Sinhala translation with speech recognition. |
+| **Microservice Simulation & Analysis Tool** | Next.js, Go, Docker, Ollama LLM | Tool to simulate and analyze microservice architectures for developers. |
+| **Digital Clinic Booking App** | React Native, Node.js | Mobile application for appointment scheduling and patient management. |
+| **Art Gallery Mobile App** | React Native, Spring Boot | A mobile app for showcasing and managing art collections. |
+| **Art Gallery Web App** | Next.js, Spring Boot | Web portal for managing art exhibits and artist portfolios. |
 
-> See all my work on [GitHub repositories](https://github.com/MalithGihan?tab=repositories)
+> Explore more on my [GitHub repositories](https://github.com/MalithGihan?tab=repositories)
 
 ---
 
 ## 🌱 What I'm Exploring
-- **Advanced React & Next.js 13+**: Hooks, Server Components, and SEO optimization  
-- **Microservices & Scalable Backends**: Node.js, message queues, and Docker  
-- **TinyML & Edge AI**: Deploying lightweight AI models for smart devices  
+- **Advanced React & Next.js 13+**: Server Components, SEO optimization, and state management  
+- **Microservices & Scalable Backends**: Node.js, Docker, message queues, Kubernetes  
+- **Hybrid Mobile App Development**: React Native and cross-platform solutions  
+- **Robotics & Edge AI**: Real-time processing with TinyML and AI models  
 - **Data Analysis & Visualization**: Python, Pandas, Matplotlib, real-world datasets  
+- **Ubuntu & DevOps Operations**: Automation, deployments, and cloud integrations  
 
 ---
 
 ## 🤝 Collaboration & Opportunities
-I’m always open to collaborating on **innovative projects** or **open-source contributions**:
+I’m always open to **innovative projects** or **open-source contributions**:
 
-- Web & mobile apps that solve real problems  
-- Hackathons or sprint challenges  
-- AI/ML-based prototypes for healthcare or smart cities  
+- Web & mobile apps solving real-world problems  
+- Hackathons and sprint challenges  
+- AI/ML prototypes for healthcare, education, or smart cities  
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: [malithgihan099@gmail.com](mailto:malithgihan099@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/malith-gihan](https://www.linkedin.com/in/malith-gihan)  
-- 🌐 Portfolio: [malithgihan.dev](https://malithgihan.dev)  
+- 🔗 LinkedIn: [linkedin.com/in/malith-gihan](https://www.linkedin.com/in/malith-gihan-/)  
+- 🌐 Portfolio: [malithgihan.dev](https://malithgihan.vercel.app/)  
 
 ---
 
 ## ⚡ Fun Tidbits
-- 🏔️ Hiked **Adam's Peak** — unforgettable experience!  
 - 🎨 Diploma in **Graphic Design** helps me craft better UI/UX  
-- 🚀 Love learning new frameworks and experimenting with emerging tech  
+- 🚀 Passionate about learning new frameworks and emerging technologies  
 
 ---
 
