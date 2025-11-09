@@ -1,31 +1,77 @@
-# 👋 Hello, I'm [@MalithGihan](https://github.com/MalithGihan)
+# 👋 Hi, I'm Malith Gihan
 
-Welcome to my GitHub profile! I'm excited to share my projects and collaborate with others in the software development community.
-
-## 👀 Interests
-- **Web Development:** Passionate about building responsive and user-friendly web applications using modern frameworks.
-- **Machine Learning:** Fascinated by the potential of AI and its applications in real-world scenarios, especially in healthcare and agriculture.
-- **Mobile App Development:** Enjoy creating intuitive mobile applications that solve everyday problems.
-
-## 🌱 Currently Learning
-- **React:** Enhancing my skills in building dynamic web applications using React and exploring its ecosystem.
-- **Node.js:** Gaining expertise in building back-end services and APIs using Node.js.
-- **Data Science:** Exploring data analysis and visualization techniques with Python libraries like Pandas and Matplotlib.
-
-## 💞️ Looking to Collaborate On
-- **Open Source Projects:** Actively seeking opportunities to contribute to open-source projects that focus on education and healthcare technology.
-- **Hackathons:** Eager to team up for hackathons to develop innovative solutions within a limited time frame.
-- **Web and Mobile Apps:** Interested in collaborating on web or mobile applications that enhance user experiences or address specific community needs.
-
-## 📫 How to Reach Me
-- **Email:** [malithgihan099@gmail.com](malithgihan099@gmail.com)
-
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun Fact
-- I once hiked to the summit of Adam peak and it was one of the most rewarding experiences of my life!
+**Software Engineer | Full-Stack Developer | TinyML Enthusiast**
 
 ---
 
-Feel free to check out my repositories below and don't hesitate to reach out if you'd like to collaborate or just chat about tech!
+## 🎨 About Me
+I am a passionate software engineer exploring the intersections of **web, mobile, and AI-powered applications**. I enjoy solving real-world problems with technology and creating solutions that are **both functional and elegant**.  
+
+- 🌍 Based in Sri Lanka  
+- 💻 Full-stack web & mobile development  
+- 🤖 TinyML & AI experiments for smart systems  
+- 📈 Always learning modern technologies & best practices  
+
+---
+
+## 🛠️ My Toolbox
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TinyML-FF6F61?style=for-the-badge" />
+</div>
+
+---
+
+## 🚀 Projects & Highlights
+Here are a few projects I am proud of:
+
+| Project | Tech Stack | Summary |
+|---------|------------|---------|
+| **Smart Traffic Lights** | React, TinyML, Edge Computing | Real-time traffic prioritization for emergency vehicles and accident detection. |
+| **Food Delivery Platform** | React, Node.js, Docker | Uber Eats-style full-stack system with microservices & live notifications. |
+| **Finance Manager** | Node.js, Express, MongoDB | Manage budgets, visualize data, and automate financial insights. |
+
+> See all my work on [GitHub repositories](https://github.com/MalithGihan?tab=repositories)
+
+---
+
+## 🌱 What I'm Exploring
+- **Advanced React & Next.js 13+**: Hooks, Server Components, and SEO optimization  
+- **Microservices & Scalable Backends**: Node.js, message queues, and Docker  
+- **TinyML & Edge AI**: Deploying lightweight AI models for smart devices  
+- **Data Analysis & Visualization**: Python, Pandas, Matplotlib, real-world datasets  
+
+---
+
+## 🤝 Collaboration & Opportunities
+I’m always open to collaborating on **innovative projects** or **open-source contributions**:
+
+- Web & mobile apps that solve real problems  
+- Hackathons or sprint challenges  
+- AI/ML-based prototypes for healthcare or smart cities  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: [malithgihan099@gmail.com](mailto:malithgihan099@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/malith-gihan](https://www.linkedin.com/in/malith-gihan)  
+- 🌐 Portfolio: [malithgihan.dev](https://malithgihan.dev)  
+
+---
+
+## ⚡ Fun Tidbits
+- 🏔️ Hiked **Adam's Peak** — unforgettable experience!  
+- 🎨 Diploma in **Graphic Design** helps me craft better UI/UX  
+- 🚀 Love learning new frameworks and experimenting with emerging tech  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MalithGihan&color=brightgreen" alt="Profile Views" />
+</div>
