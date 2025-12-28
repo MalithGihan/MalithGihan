@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malith Gihan
 
-**Software Engineer | Full-Stack Developer | Robotics & AI Enthusiast**
+**Software Engineer | Hybrid Engineer | Robotics & AI Enthusiast | Software Architect and System Designer **
 
 ---
 
